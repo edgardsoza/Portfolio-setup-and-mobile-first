@@ -19,25 +19,24 @@
 
   color: #28352f;
 
-    /* Inside auto layout */
+  /* Inside auto layout */
   flex: none;
   order: 0;
   flex-grow: 0;
-  }
+}
 
-  nav {
+nav {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  }
+}
 
-  header nav div .ri-menu-line {
-  display:flex;
+header nav div .ri-menu-line {
+  display: flex;
   align-items: right;
-  }
+}
 
-  .Greetings {
-
+.Greetings {
   /* Primary */
   width: 327px;
   height: 192px;
@@ -59,17 +58,17 @@
   order: 0;
   flex-grow:0 ;
   padding-left: 35%;
-  }
+}
 
-  #intro1 {
-    color:blue;
-  }
+#intro1 {
+    color: blue;
+}
 
-  #intro2 {
-    color:green;
-  }
+#intro2 {
+    color: green;
+}
 
-  .intromessage {
+.intromessage {
 
   /* Supporting Text */
   width: 327px;
@@ -92,12 +91,12 @@
   flex: none;
   order: 1;
   flex-grow: 0;
-  }
+}
 
-  .links {
+.links {
     padding-left: 35%;
     padding-top: 25%;
     display:flex;
     flex-wrap: wrap;
     flex-grow: 1;
-    }
+}
