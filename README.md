@@ -1,29 +1,11 @@
 <a name="readme-top">My first Portfolio</a>
 
-<!--
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+   - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -48,12 +30,10 @@ This is my first portfolio and I am doing the mobile version first.
 
 ## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
-### Tech Stack <a name="tech-stack">Tech Stack</a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Virtual Studio Code</summary>
   <ul>
     <li><a href="https://reactjs.org/">HTML and CSS</a></li>
   </ul>
@@ -64,7 +44,7 @@ This is my first portfolio and I am doing the mobile version first.
 ### Key Features <a name="key-features"></a>
 
 - Using CSS for first time
-- Trying linters for first time
+- Trying linters for second time
 - Just adding some text here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -73,8 +53,6 @@ This is my first portfolio and I am doing the mobile version first.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,8 +60,6 @@ This is my first portfolio and I am doing the mobile version first.
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -126,9 +102,16 @@ Open the project by launching the Live Server plugging in visual studio code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features">Completed portfolio</a>
+
+- Mobile version will be added.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="contributing">Portfolio Project</a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -140,9 +123,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a like on the following page:
+portfolio.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,17 +132,14 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my family and everyone who helped on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
@@ -176,10 +155,9 @@ I would like to thank...
 
 ## 📝 License <a name="license">MIT License</a>
 
-This project is [MIT](./LICENSE) licensed.
 MIT License
 
-Copyright (c) [2023] [Edgard Jose Soza Sobalvarro]
+Copyright (c) 2023 Edgard Jose Soza Sobalvarro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
