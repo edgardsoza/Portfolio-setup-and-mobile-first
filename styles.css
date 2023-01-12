@@ -1,0 +1,117 @@
+  .welcome-message {
+    /* Welcome */
+
+
+width: 90px;
+height: 28px;
+
+/* Theme 2 / Subhead 1 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Theme 2 / Neutral 1 */
+
+color: #28352F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+  }
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header nav div .ri-menu-line {
+  display:flex;
+  align-items: right;
+}
+
+  .Greetings {
+  /* Primary */
+
+
+width: 327px;
+height: 192px;
+
+/* Theme 2 / H2 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* or 130% */
+
+text-align: center;
+
+/* Neutrals/N800 */
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow:0 ;
+padding-left: 35%;
+  }
+
+  #intro1 {
+    color:blue;
+  }
+
+  #intro2 {
+    color:green;
+  }
+
+  .intromessage {
+    /* Supporting Text */
+
+
+width: 327px;
+height: 164px;
+
+/* Theme 2 / Body Reguler 1 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+text-align: center;
+
+/* Neutrals/N800 */
+
+color: #172B4D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+  }
+
+  .links {
+    padding-left: 35%;
+    padding-top: 25%;
+    display:flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    }
+
+  
