@@ -1,5 +1,5 @@
-  .welcome-message {
-
+.welcome-message {
+  
   /* Welcome */
   width: 90px;
   height: 28px;
@@ -102,5 +102,3 @@
     flex-wrap: wrap;
     flex-grow: 1;
     }
-
-  
