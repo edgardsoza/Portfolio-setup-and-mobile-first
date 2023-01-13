@@ -4,8 +4,6 @@ body {
 }
 
 .welcome-message {
-
-  /* Welcome */
   width: 327px;
   height: 192px;
 
@@ -20,8 +18,6 @@ body {
   display: flex;
   align-items: center;
   text-align: center;
-  /* Theme 2 / Neutral 1 */
-
   color: #28352f;
 
   /* Inside auto layout */
@@ -83,7 +79,7 @@ body {
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-  color: #172B4D;
+  color: #172b4d;
   flex: none;
   order: 1;
   flex-grow: 0;
