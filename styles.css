@@ -64,7 +64,7 @@ body {
   font-size: 40px;
   line-height: 52px;
   text-align: center;
-  color: green;
+  color: #36b37e;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -101,6 +101,7 @@ body {
   right: 67.36%;
   top: 65.83%;
   bottom: 23.42%;
+  color:#505f79;
 }
 
 .ri-linkedin-box-fill {
@@ -111,6 +112,7 @@ body {
   right: 60.96%;
   top: 65.83%;
   bottom: 23.42%;
+  color:#505f79;
 }
 
 .ri-medium-fill {
@@ -121,6 +123,7 @@ body {
   right: 46.29%;
   top: 65.83%;
   bottom: 23.42%;
+  color:#505f79;
 }
 
 .ri-github-fill {
@@ -131,6 +134,7 @@ body {
   right: 36.16%;
   top: 65.83%;
   bottom: 23.42%;
+  color:#505f79;
 }
 
 .ri-thumb-up-line {
@@ -141,4 +145,5 @@ body {
   right: 27.31%;
   top: 65.83%;
   bottom: 23.42%;
+  color:#505f79;
 }
