@@ -1,7 +1,13 @@
+body {
+  background: #E5E5E5;
+}
+
 .welcome-message {
   /* Welcome */
-  width: 90px;
-  height: 28px;
+  min-width: 100vh;
+  height: 92px;
+  left: 0px;
+  top: 0px;
 
   /* Theme 2 / Subhead 1 */
   font-family: Arial, Helvetica, sans-serif;
@@ -14,13 +20,13 @@
   display: flex;
   align-items: center;
   text-align: center;
+  justify-content: space-around;
 
   /* Theme 2 / Neutral 1 */
 
   color: #28352f;
 
   /* Inside auto layout */
-  flex: none;
   order: 0;
   flex-grow: 0;
 }
@@ -31,15 +37,8 @@ nav {
   justify-content: space-around;
 }
 
-header nav div .ri-menu-line {
-  display: flex;
-  align-items: right;
-}
-
-.Greetings {
+  .Greetings-container {
   /* Primary */
-  width: 327px;
-  height: 192px;
 
   /* Theme 2 / H2 */
   font-family: Arial, Helvetica, sans-serif;
@@ -53,24 +52,27 @@ header nav div .ri-menu-line {
   text-align: center;
 
   /* Inside auto layout */
-  flex: none;
+  display: flex;
+  flex-direction: column;
   order: 0;
+  align-items: center;  
   flex-grow: 0;
-  padding-left: 35%;
 }
 
 #intro1 {
   color: blue;
+  width: 327px;
+  height: 50px;
 }
 
 #intro2 {
   color: green;
+  width: 327px;
+  height: 100px;
 }
 
 .intromessage {
   /* Supporting Text */
-  width: 327px;
-  height: 164px;
 
   /* Theme 2 / Body Reguler 1 */
   font-family: Arial, Helvetica, sans-serif;
@@ -87,14 +89,23 @@ header nav div .ri-menu-line {
 
   /* Inside auto layout */
   flex: none;
-  order: 1;
+  width: 327px;
+  height: 164px;
+  justify-content: center;  
   flex-grow: 0;
 }
 
-.links {
-  padding-left: 35%;
-  padding-top: 25%;
+.social-container {
+  min-width: 100vh;  
+  height: 20px;
   display: flex;
-  flex-wrap: wrap;
-  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 0;
+  padding-right: 5%;
+}
+
+body {
+  background-image: url("Images/backgroundimage.png");
+  background-size: contain;
 }
