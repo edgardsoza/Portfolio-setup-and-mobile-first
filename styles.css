@@ -1,6 +1,7 @@
 body {
   background-image: url(images/backgroundimage.png);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .welcome-message {
@@ -91,6 +92,7 @@ body {
   flex: none;
   order: 2;
   flex-grow: 0;
+  list-style-type: none;
 }
 
 .ri-twitter-fill {
