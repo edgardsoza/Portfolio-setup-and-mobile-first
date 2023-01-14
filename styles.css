@@ -73,8 +73,8 @@ body {
 
 .intromessage {
   width: 327px;
-  height: 150px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  height: 164px;
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -97,22 +97,22 @@ body {
 
 .ri-twitter-fill {
   position: absolute;
-  width: 17.99px;
+  width: 19.99px;
   height: 20px;
-  left: 27.31%;
-  right: 67.36%;
-  top: 65.83%;
+  left: 36.31%;
+  right: 51.36%;
+  top: 68.83%;
   bottom: 23.42%;
   color: #505f79;
 }
 
 .ri-linkedin-box-fill {
   position: absolute;
-  width: 17.99px;
+  width: 20x;
   height: 20px;
-  left: 37.31%;
-  right: 60.96%;
-  top: 65.83%;
+  left: 43.31%;
+  right: 52.96%;
+  top: 68.83%;
   bottom: 23.42%;
   color: #505f79;
 }
@@ -121,20 +121,20 @@ body {
   position: absolute;
   width: 17.99px;
   height: 20px;
-  left: 48.38%;
-  right: 46.29%;
-  top: 65.83%;
-  bottom: 23.42%;
+  left: 50.38%;
+  right: 48.29%;
+  top: 68.83%;
+  bottom: 23.69%;
   color: #505f79;
 }
 
 .ri-github-fill {
   position: absolute;
-  width: 20px;
+  width: 17.99px;
   height: 20px;
-  left: 59.04%;
-  right: 36.16%;
-  top: 65.83%;
+  left: 57.04%;
+  right: 40.16%;
+  top: 68.83%;
   bottom: 23.42%;
   color: #505f79;
 }
@@ -143,9 +143,9 @@ body {
   position: absolute;
   width: 20px;
   height: 20px;
-  left: 68.91%;
-  right: 27.31%;
-  top: 65.83%;
+  left: 63.91%;
+  right: 34.31%;
+  top: 68.83%;
   bottom: 23.42%;
   color: #505f79;
 }
